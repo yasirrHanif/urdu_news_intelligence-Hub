@@ -1,1 +1,1 @@
-# urdu_news
+# urdu_news_intelligence Hub is a real time fake news detector webbapp .here you can check the authenticity by the mean of ten authntic urdu news portals and also perform sentiment analysis of news artichles and headlines.
